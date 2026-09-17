@@ -19,7 +19,7 @@
 
 
 
- ## 💻 Minhas Habilidades
+ ## 💻 Educação e Certificações
 
 
  
