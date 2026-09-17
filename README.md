@@ -24,7 +24,7 @@
 
  
 
- | <span style="color:green"> __Cursos__|<span style="color:green">__Certificados__| <span style="color:green">__Código de Acesso__ |
+ | <span style="color:green"> __Cursos__|<span style="color:green">__certificados__| <span style="color:green">__Código de Acesso__ |
  |------------|------------------|----------------------|
  |Análise e Desenvolvimento de Sistemas|[Certificado](https://diplomas.somosb4.com.br/) | 298.298.2c6ff2d0b101|
  |Cibersegurança e Governança de Dados|  Falta preencher | Falta Preencher |
