@@ -34,7 +34,7 @@
  |Microsoft AI for Tech - Copilot Studio|[Certificado](https://hermes.dio.me/certificates/E4MUS4JT.pdf) | ____
 
 
-## Experiencias
+## 📈 Experiencias
 - Analista de TI Pleno                                   
 Ago 2022 - ...
   - Projetar e manter políticas e procedimentos de TI;
