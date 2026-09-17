@@ -10,10 +10,11 @@
 
    🎥 Gosto muito de series Americanas e atualmente também estou gostando de séries Turcas rsrs
 
-   📫 [Linkedin](https://www.linkedin.com/in/fernanda-ara%C3%BAjo-26425a43/)
+   🔔 Disponível para novos conhecimentos e habilidades...
 
-<br>
-<br>
+   📲 +55 31 99431-5633
+
+   📫 [Linkedin](https://www.linkedin.com/in/fernanda-ara%C3%BAjo-26425a43/)
 <br>
 <br>
 
@@ -167,11 +168,13 @@ Jul de 2014 - Out 2014**
 
 ---
 
-![Araujo77 GitHub stats](https://github-readme-stats.vercel.app/api?username=Araujo77&show_icons=true&theme=dracula)
+![Araujo77 GitHub stats](https://github-readme-stats.vercel.app/api?username=Araujo77&show_icons=true&theme=dracula) 
 
+---
 
+- ## Habilidades
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VtK8no8lQsaWRhyLiUoE4AvthmAak1W_ZfntLJY79TEygchQffJJ3Foq&s=10" width="200px">
 
- 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAA87Ii1WTGuoY2bdqx3JOs_I2FBpwnz1MbUcjtP_br2yOsSma5LkJc_nk&s=10" width="200px" align="center" />
 
- 
