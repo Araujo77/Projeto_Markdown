@@ -165,8 +165,11 @@ Mar 2015 - Set 2015**
 Jul de 2014 - Out 2014**
   - Atendimento receptivo Cemig.
 
+---
 
-  
+![Araujo77 GitHub stats](https://github-readme-stats.vercel.app/api?username=Araujo77&show_icons=true&theme=dracula)
+
+
 
 
  
